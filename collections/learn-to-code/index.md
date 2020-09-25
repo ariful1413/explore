@@ -1,4 +1,4 @@
----
+explore/collections/learn-to-code/index.md---
 items:
  - 30-seconds/30-seconds-of-code
  - railsgirls/railsgirls.github.io
